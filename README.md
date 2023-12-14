@@ -32,10 +32,9 @@ Before you begin, ensure you have the following prerequisites installed:
    ```bash
    flutter pub get
 
-### Running the App
+## Running the App
 
 To run the Missing Child Finder App on your emulator or connected device, use the following command:
 
    ```bash
    flutter run
-   
