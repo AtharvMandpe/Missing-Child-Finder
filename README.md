@@ -25,7 +25,7 @@ Before you begin, ensure you have the following prerequisites installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/missing-child-finder.git
+   git clone https://github.com/AtharvMandpe/missing-child-finder.git
    cd missing-child-finder
 
 2. Getting the required packages
