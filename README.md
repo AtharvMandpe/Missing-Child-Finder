@@ -27,3 +27,15 @@ Before you begin, ensure you have the following prerequisites installed:
    ```bash
    git clone https://github.com/your_username/missing-child-finder.git
    cd missing-child-finder
+
+2. Getting the required packages
+   ```bash
+   flutter pub get
+
+### Running the App
+
+To run the Missing Child Finder App on your emulator or connected device, use the following command:
+
+   ```bash
+   flutter run
+   
